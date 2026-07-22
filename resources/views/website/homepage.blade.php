@@ -105,14 +105,14 @@
     <!-- Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 md:items-center">
       <div class="relative h-80 md:h-150 bg-surface rounded-2xl">
-        <img class="absolute inset-0 size-full object-cover rounded-2xl" src="https://images.unsplash.com/photo-1530023367847-a683933f4172?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2F0ZXJpbmclMjBldmVudHN8ZW58MHx8MHx8fDA%3D" alt="Testimonials Image">
+        <img class="absolute inset-0 size-full object-cover rounded-2xl" src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCV6aj4hQck9V1ynZQckX3YRuNZ07ZmtpoudI6m1M6x07lUJD7UzjKQvReokUKhDZTte8a_LLUS2Wmxamuw-XOKmqR7xrptcJ0eBsTeYRLBzhod9gzlsQtKFgW_ghLUlno5svN9hJ_oMY=s680-w680-h510-rw" alt="Testimonials Image">
       </div>
       <!-- End Col -->
 
       <div class="pt-10 md:p-10">
         <blockquote class="max-w-4xl mx-auto">
           <p class="mb-6  sm:text-2xl lg:text-3xl text-foreground">
-            A Family Tradition of Rich, Aromatic Coffee
+            Outside Catering
           </p>
 
           <p class="text-xl md:text-lg lg:leading-normal text-foreground">

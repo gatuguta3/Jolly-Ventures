@@ -4,8 +4,18 @@
 
 @section('content')
 
-<div class="bg-local w-full h-[30vh] sm:h-[60vh] md:h-[40vh] flex items-center justify-center bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1555244162-803834f70033?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0ZXJpbmclMjBldmVudHN8ZW58MHx8MHx8fDA%3D')">
-    <h1 class="text-4xl text-white font-bold">What We Do</h1>
+<div class="relative w-full min-h-[500px] bg-cover bg-center bg-no-repeat bg-fixed" 
+     style="background-image: url('https://images.unsplash.com/photo-1555244162-803834f70033?w=1920&q=85&auto=format&fit=crop&ixlib=rb-4.0.3'); 
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: crisp-edges;">
+    
+    <!-- Overlay for text readability -->
+    <div class="absolute inset-0 bg-black/40"></div>
+    
+    <!-- Content -->
+    <div class="relative z-10 flex items-center justify-center h-full">
+        <h1 class="text-4xl text-white font-bold">What We Do</h1>
+    </div>
 </div>
 
 <hr class="border-stone-500 dark:border-neutral-500">
@@ -22,7 +32,9 @@
 
     <!-- Card -->
 <div class="flex flex-col bg-card border border-card-line shadow-2xs rounded-xl">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.unsplash.com/photo-1680868543815-b8666dba60f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=320&q=80" alt="Card Image">
+  <img class="w-half h-auto rounded-t-xl" src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm__zQ1_4B3k2TgvT-J6hHDb6BKYqFS9VHpysLKRUpPbySb03lejeqeUTjMb1mw16Y1LTDl3-bJjMmU_PAQQk8XBwxoSrpXCnE-WuDddZvFaL-6nMh-2SpKQm6-W0iKOEE5zIO9=s680-w680-h510-rw" alt="Card Image ; 
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: crisp-edges;">
   <div class="p-4  ">
     <h3 class="font-semibold text-foreground">
       Jolly Ventures Team

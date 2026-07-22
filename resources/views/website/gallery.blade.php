@@ -10,7 +10,7 @@
 <div class="max-w-340 px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
     <div class="space-y-2">
-      <img class="w-full h-auto object-cover" src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
+      <img class="w-full h-auto object-cover" src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJ5CYATj72aAyyJUP6MqKf_czuHratNqTx4eOtdaB-9swIs10pYO5z_Igb1DMUuPuNBiMT9PwxdZkAROEbJVk8vOC8LWi5GBK9-8AyLd_30NjaX02zZcR2ak3wyCJpJ4wLmWky=s680-w680-h510-rw" alt="Gallery Masonry Image">
       <img class="w-full h-auto object-cover" src="https://images.unsplash.com/photo-1668906093328-99601a1aa584?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
       <img class="w-full h-auto object-cover" src="https://images.unsplash.com/photo-1567016526105-22da7c13161a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
     </div>
