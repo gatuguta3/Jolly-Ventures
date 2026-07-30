@@ -13,9 +13,10 @@
           <li><a href="/about">About Us</a></li>
           <li class="dropdown"><a href="/services"><span>Our Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="/services/catering">Catering</a></li>
-              <li><a href="testimonials.html">Event planning</a></li>
-              <li><a href="testimonials.html">Equipment solutions</a></li>              
+              <li><a href="/catering">Catering</a></li>
+              <li><a href="/events_planning">Event planning</a></li>
+              <li><a href="/equipment_solutions">Equipment solutions</a></li>
+              <li><a href="/decor_services">Decor services</a></li>              
             </ul>
           </li>
           

@@ -39,7 +39,7 @@
             <div class="service-item d-flex position-relative h-100">
               <i class="bi bi-calendar-check icon flex-shrink-0"></i>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Event Planning </a></h4>
+                <h4 class="title"><a href="/events_planning" class="stretched-link">Event Planning </a></h4>
                 <p class="description">We organize and execute unforgettable events that exceed our clients' expectations.</p>
               </div>
             </div>
@@ -49,7 +49,7 @@
             <div class="service-item d-flex position-relative h-100">
               <i class="bi bi-bar-chart icon flex-shrink-0"></i>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Equipment solutions</a></h4>
+                <h4 class="title"><a href="/equipment_solutions" class="stretched-link">Equipment solutions</a></h4>
                 <p class="description">We provide or hire out  high-quality event equipment and utensils at an affordable price for all your catering needs.</p>
               </div>
             </div>
@@ -59,7 +59,7 @@
             <div class="service-item d-flex position-relative h-100">
               <i class="bi bi-box-seam icon flex-shrink-0"></i>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Decor Services</a></h4>
+                <h4 class="title"><a href="/decor_services" class="stretched-link">Decor Services</a></h4>
                 <p class="description">We create stunning event setups that leave a lasting impression on your guests</p>
               </div>
             </div>
